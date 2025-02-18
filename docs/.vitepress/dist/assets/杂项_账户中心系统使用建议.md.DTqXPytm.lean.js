@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a2 as a}from"./chunks/framework.Gmd0D3gy.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"杂项/账户中心系统使用建议.md","filePath":"杂项/账户中心系统使用建议.md"}'),i={name:"杂项/账户中心系统使用建议.md"};function r(n,s,l,d,c,g){return o(),t("div",null,s[0]||(s[0]=[a("",10)]))}const h=e(i,[["render",r]]);export{_ as __pageData,h as default};
