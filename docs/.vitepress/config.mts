@@ -19,6 +19,7 @@ const { nav, sidebar } = AutoNavPlugin({
 export default withMermaid(defineConfig({
   title: "Unicenter Docs",
   description: "账户中心文档",
+  base: "/VitePress/",
   markdown: {
     config: (md) => {
       // 创建 markdown-it 插件
