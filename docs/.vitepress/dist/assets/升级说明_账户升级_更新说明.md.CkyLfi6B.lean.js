@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a2 as r}from"./chunks/framework.CUJYCLAX.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"升级说明/账户升级/更新说明.md","filePath":"升级说明/账户升级/更新说明.md"}'),c={name:"升级说明/账户升级/更新说明.md"};function n(s,a,i,_,l,d){return o(),e("div",null,a[0]||(a[0]=[r("",6)]))}const h=t(c,[["render",n]]);export{p as __pageData,h as default};
