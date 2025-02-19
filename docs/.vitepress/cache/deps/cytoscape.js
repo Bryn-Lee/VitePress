@@ -1,6 +1,6 @@
 import "./chunk-BUSYA2B4.js";
 
-// node_modules/.store/cytoscape@3.31.0/node_modules/cytoscape/dist/cytoscape.esm.mjs
+// node_modules/cytoscape/dist/cytoscape.esm.mjs
 function _typeof(obj) {
   "@babel/helpers - typeof";
   return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(obj2) {
